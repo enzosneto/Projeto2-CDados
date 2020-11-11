@@ -1,4 +1,4 @@
-# Projeto2-CDados
+# Projeto 2 - Ciência dos Dados
 
 Integrantes: 
 - Alex Steijntjes
