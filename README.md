@@ -7,7 +7,7 @@ Integrantes:
 - Isabella Oliveira
 
 ## Tema 
-Partindo da música que o usuário do Spotify está escutando, qual seria a melhor música para recomendar? 
+Previsão se uma determinada música tem perfil de sucesso ou não baseado em seus aspectos.
 
 ## Técnica utilizada
 Classificação (ex: multinomial naive bayes, regressão logística, decision tree e random forest)
